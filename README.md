@@ -10,7 +10,7 @@ The robot-side edge server has limited computing resources and cannot efficientl
 
 <h2>System Architecture</h2>
 <p align="center">
-  <img src="main.png" width="750">
+  <img src="main.png">
 </p>
 
 1. **Customer order:** A user submits a text-based coffee order.
