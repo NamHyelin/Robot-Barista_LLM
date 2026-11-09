@@ -1,0 +1,1442 @@
+[
+  {
+    "prompt": "Please may I have a Americano with an extra shot of espresso?",
+    "response": "1. Place cup 2. Pour water 3. Pour espresso 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "I would like to order a Americano with extra milk.",
+    "response": "1. Place cup 2. Pour water 3. Pour espresso 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Americano with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Pour water 3. Pour espresso 4. Drizzle vanilla syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Would you get me a Americano with whipped cream, please?",
+    "response": "1. Place cup 2. Pour water 3. Pour espresso 4. Garnish whipped cream 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "May I have a One Americano with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Pour water 3. Pour espresso 4. Drizzle caramel syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Please may I have a Mega Americano with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Mega Americano with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Mega Americano with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Mega Americano with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a Americano with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Hal-Mega Coffee with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Hal-Mega Coffee with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Hal-Mega Coffee with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Hal-Mega Coffee with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a Coffee with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a King Hal-Mega Coffee with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a King Hal-Mega Coffee with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a King Hal-Mega Coffee with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a King Hal-Mega Coffee with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a Coffee with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Hazelnut Americano with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle hazelnut syrup 4. Pour water 5. Pour espresso 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Hazelnut Americano with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle hazelnut syrup 4. Pour water 5. Pour espresso 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Hazelnut Americano with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle hazelnut syrup 4. Pour water 5. Pour espresso 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Hazelnut Americano with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle hazelnut syrup 4. Pour water 5. Pour espresso 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a One Hazelnut Americano with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle hazelnut syrup 4. Pour water 5. Pour espresso 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Vanilla Americano with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle vanilla syrup 4. Pour water 5. Pour espresso 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Vanilla Americano with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle vanilla syrup 4. Pour water 5. Pour espresso 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Vanilla Americano with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle vanilla syrup 4. Pour water 5. Pour espresso 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Vanilla Americano with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle vanilla syrup 4. Pour water 5. Pour espresso 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a Americano with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle vanilla syrup 4. Pour water 5. Pour espresso 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Honey Americano with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle honey syrup 4. Pour water 5. Pour espresso 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Honey Americano with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle honey syrup 4. Pour water 5. Pour espresso 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Honey Americano with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle honey syrup 4. Pour water 5. Pour espresso 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Honey Americano with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle honey syrup 4. Pour water 5. Pour espresso 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a One Honey Americano with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle honey syrup 4. Pour water 5. Pour espresso 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Cappuccino with an extra shot of espresso?",
+    "response": "1. Place cup 2. Pour espresso 3. Pour milk 4. Pour milk foam 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Cappuccino with extra milk.",
+    "response": "1. Place cup 2. Pour espresso 3. Pour milk 4. Pour milk foam 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Cappuccino with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Pour espresso 3. Pour milk 4. Pour milk foam 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Cappuccino with whipped cream, please?",
+    "response": "1. Place cup 2. Pour espresso 3. Pour milk 4. Pour milk foam 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a One Cappuccino with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Pour espresso 3. Pour milk 4. Pour milk foam 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Caramel Macchiato with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle caramel syrup 3. Pour milk 4. Pour espresso 5. Garnish caramel 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Caramel Macchiato with extra milk.",
+    "response": "1. Place cup 2. Drizzle caramel syrup 3. Pour milk 4. Pour espresso 5. Garnish caramel 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Caramel Macchiato with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle caramel syrup 3. Pour milk 4. Pour espresso 5. Garnish caramel 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Caramel Macchiato with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle caramel syrup 3. Pour milk 4. Pour espresso 5. Garnish caramel 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a One Caramel Macchiato with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Drizzle caramel syrup 3. Pour milk 4. Pour espresso 5. Garnish caramel 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Cafe Mocha with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour espresso 4. Pour milk 5. Garnish chocolate powder 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Cafe Mocha with extra milk.",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour espresso 4. Pour milk 5. Garnish chocolate powder 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Cafe Mocha with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour espresso 4. Pour milk 5. Garnish chocolate powder 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Cafe Mocha with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour espresso 4. Pour milk 5. Garnish chocolate powder 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour espresso 4. Pour milk 5. Garnish chocolate powder 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Mint Cafe Mocha with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Drizzle mint syrup 4. Pour espresso 5. Pour milk 6. Garnish mint leaf 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Mint Cafe Mocha with extra milk.",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Drizzle mint syrup 4. Pour espresso 5. Pour milk 6. Garnish mint leaf 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Mint Cafe Mocha with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Drizzle mint syrup 4. Pour espresso 5. Pour milk 6. Garnish mint leaf 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Mint Cafe Mocha with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Drizzle mint syrup 4. Pour espresso 5. Pour milk 6. Garnish mint leaf 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Drizzle mint syrup 4. Pour espresso 5. Pour milk 6. Garnish mint leaf 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Hazelnut Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle hazelnut syrup 3. Pour espresso 4. Pour milk 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Hazelnut Latte with extra milk.",
+    "response": "1. Place cup 2. Drizzle hazelnut syrup 3. Pour espresso 4. Pour milk 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Hazelnut Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle hazelnut syrup 3. Pour espresso 4. Pour milk 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Hazelnut Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle hazelnut syrup 3. Pour espresso 4. Pour milk 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a One Hazelnut Latte with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Drizzle hazelnut syrup 3. Pour espresso 4. Pour milk 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Vanilla Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle vanilla syrup 3. Pour espresso 4. Pour milk 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Vanilla Latte with extra milk.",
+    "response": "1. Place cup 2. Drizzle vanilla syrup 3. Pour espresso 4. Pour milk 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Vanilla Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle vanilla syrup 3. Pour espresso 4. Pour milk 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Vanilla Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle vanilla syrup 3. Pour espresso 4. Pour milk 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a Latte with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Drizzle vanilla syrup 3. Pour espresso 4. Pour milk 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Tiramisu Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle tiramisu syrup 3. Pour espresso 4. Pour milk 5. Garnish cocoa powder 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Tiramisu Latte with extra milk.",
+    "response": "1. Place cup 2. Drizzle tiramisu syrup 3. Pour espresso 4. Pour milk 5. Garnish cocoa powder 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Tiramisu Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle tiramisu syrup 3. Pour espresso 4. Pour milk 5. Garnish cocoa powder 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Tiramisu Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle tiramisu syrup 3. Pour espresso 4. Pour milk 5. Garnish cocoa powder 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a One Tiramisu Latte with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Drizzle tiramisu syrup 3. Pour espresso 4. Pour milk 5. Garnish cocoa powder 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Cube Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Pour milk 4. Pour espresso 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Cube Latte with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Pour milk 4. Pour espresso 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Cube Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Pour milk 4. Pour espresso 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Cube Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Pour milk 4. Pour espresso 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a One Cube Latte with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Pour milk 4. Pour espresso 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Condensed-Milk Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle condensed milk 3. Pour espresso 4. Pour milk 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Condensed-Milk Latte with extra milk.",
+    "response": "1. Place cup 2. Drizzle condensed milk 3. Pour espresso 4. Pour milk 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Condensed-Milk Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle condensed milk 3. Pour espresso 4. Pour milk 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Condensed-Milk Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle condensed milk 3. Pour espresso 4. Pour milk 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a One Condensed-Milk Latte with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Drizzle condensed milk 3. Pour espresso 4. Pour milk 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Cold Brew Original with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Pour cold brew 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "I would like to order a Cold Brew Original with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Pour cold brew 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Cold Brew Original with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Pour cold brew 4. Drizzle vanilla syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Would you get me a Cold Brew Original with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Pour cold brew 4. Garnish whipped cream 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "May I have a One Cold Brew Original with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Pour cold brew 4. Drizzle caramel syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Please may I have a Cold Brew Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Pour cold brew 4. Pour milk 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Cold Brew Latte with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Pour cold brew 4. Pour milk 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Cold Brew Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Pour cold brew 4. Pour milk 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Cold Brew Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Pour cold brew 4. Pour milk 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a One Cold Brew Latte with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Pour cold brew 4. Pour milk 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Cold Brew Concentrate with an extra shot of espresso?",
+    "response": "1. Place cup 2. Pour cold brew concentrate 3. Pour espresso 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "I would like to order a Cold Brew Concentrate with extra milk.",
+    "response": "1. Place cup 2. Pour cold brew concentrate 3. Pour milk 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Cold Brew Concentrate with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Pour cold brew concentrate 3. Drizzle vanilla syrup 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "Would you get me a Cold Brew Concentrate with whipped cream, please?",
+    "response": "1. Place cup 2. Pour cold brew concentrate 3. Garnish whipped cream 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "May I have a One Cold Brew Concentrate with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Pour cold brew concentrate 3. Drizzle caramel syrup 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "Please may I have a Cold Brew Decaf with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Pour decaf cold brew 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "I would like to order a Cold Brew Decaf with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Pour decaf cold brew 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Cold Brew Decaf with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Pour decaf cold brew 4. Drizzle vanilla syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Would you get me a Cold Brew Decaf with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Pour decaf cold brew 4. Garnish whipped cream 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "May I have a One Cold Brew Decaf with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Pour decaf cold brew 4. Drizzle caramel syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Please may I have a Cold Brew Decaf Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Pour decaf cold brew 4. Pour milk 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Cold Brew Decaf Latte with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Pour decaf cold brew 4. Pour milk 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Cold Brew Decaf Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Pour decaf cold brew 4. Pour milk 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Cold Brew Decaf Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Pour decaf cold brew 4. Pour milk 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a One Cold Brew Decaf Latte with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Pour decaf cold brew 4. Pour milk 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Decaf Americano with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour decaf espresso shots 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Decaf Americano with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour decaf espresso shots 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Decaf Americano with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour decaf espresso shots 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Decaf Americano with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour decaf espresso shots 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a One Decaf Americano with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour decaf espresso shots 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Decaf Cafe Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Pour decaf espresso shots 3. Pour milk 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "I would like to order a Decaf Cafe Latte with extra milk.",
+    "response": "1. Place cup 2. Pour decaf espresso shots 3. Pour milk 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Decaf Cafe Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Pour decaf espresso shots 3. Pour milk 4. Drizzle vanilla syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Would you get me a Decaf Cafe Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Pour decaf espresso shots 3. Pour milk 4. Garnish whipped cream 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "May I have a One Decaf Cafe Latte with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Pour decaf espresso shots 3. Pour milk 4. Drizzle caramel syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Please may I have a Cherry Coke with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle cherry syrup 4. Pour coke 5. Stir 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Cherry Coke with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle cherry syrup 4. Pour coke 5. Stir 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Cherry Coke with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle cherry syrup 4. Pour coke 5. Stir 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Cherry Coke with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle cherry syrup 4. Pour coke 5. Stir 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a One Cherry Coke with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle cherry syrup 4. Pour coke 5. Stir 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Lemonade with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Pour lemonade 4. Garnish lemon slice 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Lemonade with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Pour lemonade 4. Garnish lemon slice 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Lemonade with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Pour lemonade 4. Garnish lemon slice 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Lemonade with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Pour lemonade 4. Garnish lemon slice 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a One Lemonade with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Pour lemonade 4. Garnish lemon slice 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Blue Lemonade with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle blue syrup 4. Pour lemonade 5. Garnish lemon slice 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Blue Lemonade with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle blue syrup 4. Pour lemonade 5. Garnish lemon slice 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Blue Lemonade with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle blue syrup 4. Pour lemonade 5. Garnish lemon slice 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Blue Lemonade with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle blue syrup 4. Pour lemonade 5. Garnish lemon slice 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a One Blue Lemonade with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle blue syrup 4. Pour lemonade 5. Garnish lemon slice 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Grapefruit Ade with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Pour soda water 5. Stir 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Grapefruit Ade with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Pour soda water 5. Stir 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Grapefruit Ade with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Pour soda water 5. Stir 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Grapefruit Ade with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Pour soda water 5. Stir 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a One Grapefruit Ade with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Pour soda water 5. Stir 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Green Grape Ade with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle green grape syrup 4. Pour soda water 5. Stir 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Green Grape Ade with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle green grape syrup 4. Pour soda water 5. Stir 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Green Grape Ade with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle green grape syrup 4. Pour soda water 5. Stir 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Green Grape Ade with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle green grape syrup 4. Pour soda water 5. Stir 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a One Green Grape Ade with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle green grape syrup 4. Pour soda water 5. Stir 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Mega Ade with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle fruit syrup 4. Pour soda water 5. Stir 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Mega Ade with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle fruit syrup 4. Pour soda water 5. Stir 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Mega Ade with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle fruit syrup 4. Pour soda water 5. Stir 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Mega Ade with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle fruit syrup 4. Pour soda water 5. Stir 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a Ade with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle fruit syrup 4. Pour soda water 5. Stir 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Unicorn Magic Ade with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle colored syrup 4. Pour soda water 5. Stir 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Unicorn Magic Ade with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle colored syrup 4. Pour soda water 5. Stir 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Unicorn Magic Ade with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle colored syrup 4. Pour soda water 5. Stir 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Unicorn Magic Ade with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle colored syrup 4. Pour soda water 5. Stir 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a One Unicorn Magic Ade with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle colored syrup 4. Pour soda water 5. Stir 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Grapefruit Mojito with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Grapefruit Mojito with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Grapefruit Mojito with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Grapefruit Mojito with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a One Grapefruit Mojito with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Green Grape Mojito with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grape syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Green Grape Mojito with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grape syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Green Grape Mojito with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grape syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Green Grape Mojito with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grape syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a One Green Grape Mojito with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grape syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Lime Mojito with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle lime syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Lime Mojito with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle lime syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Lime Mojito with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle lime syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Lime Mojito with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle lime syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a One Lime Mojito with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle lime syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Strawberry-Banana Juice with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Add strawberry syrup 4. Add banana syrup 5. Pour water 6. Stir 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Strawberry-Banana Juice with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Add strawberry syrup 4. Add banana syrup 5. Pour water 6. Stir 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Strawberry-Banana Juice with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Add strawberry syrup 4. Add banana syrup 5. Pour water 6. Stir 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Strawberry-Banana Juice with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Add strawberry syrup 4. Add banana syrup 5. Pour water 6. Stir 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a Juice with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Add ice 3. Add strawberry syrup 4. Add banana syrup 5. Pour water 6. Stir 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Choco-Banana Juice with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle chocolate syrup 4. Add banana syrup 5. Pour milk 6. Stir 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Choco-Banana Juice with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle chocolate syrup 4. Add banana syrup 5. Pour milk 6. Stir 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Choco-Banana Juice with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle chocolate syrup 4. Add banana syrup 5. Pour milk 6. Stir 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Choco-Banana Juice with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle chocolate syrup 4. Add banana syrup 5. Pour milk 6. Stir 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a Juice with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle chocolate syrup 4. Add banana syrup 5. Pour milk 6. Stir 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Strawberry Juice with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Add strawberry syrup 4. Pour water 5. Stir 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Strawberry Juice with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Add strawberry syrup 4. Pour water 5. Stir 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Strawberry Juice with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Add strawberry syrup 4. Pour water 5. Stir 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Strawberry Juice with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Add strawberry syrup 4. Pour water 5. Stir 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a One Strawberry Juice with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Add ice 3. Add strawberry syrup 4. Pour water 5. Stir 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Multigrain Banana Juice with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Add banana syrup 4. Add multigrain powder 5. Pour milk 6. Stir 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Multigrain Banana Juice with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Add banana syrup 4. Add multigrain powder 5. Pour milk 6. Stir 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Multigrain Banana Juice with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Add banana syrup 4. Add multigrain powder 5. Pour milk 6. Stir 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Multigrain Banana Juice with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Add banana syrup 4. Add multigrain powder 5. Pour milk 6. Stir 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a Juice with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Add ice 3. Add banana syrup 4. Add multigrain powder 5. Pour milk 6. Stir 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a King Mega Choco with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour espresso 4. Pour milk 5. Garnish chocolate powder 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a King Mega Choco with extra milk.",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour espresso 4. Pour milk 5. Garnish chocolate powder 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a King Mega Choco with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour espresso 4. Pour milk 5. Garnish chocolate powder 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a King Mega Choco with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour espresso 4. Pour milk 5. Garnish chocolate powder 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a Choco with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour espresso 4. Pour milk 5. Garnish chocolate powder 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Strawberry Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle strawberry syrup 3. Pour milk 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "I would like to order a Strawberry Latte with extra milk.",
+    "response": "1. Place cup 2. Drizzle strawberry syrup 3. Pour milk 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Strawberry Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle strawberry syrup 3. Pour milk 4. Drizzle vanilla syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Would you get me a Strawberry Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle strawberry syrup 3. Pour milk 4. Garnish whipped cream 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "May I have a One Strawberry Latte with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Drizzle strawberry syrup 3. Pour milk 4. Drizzle caramel syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Please may I have a Sweet Potato Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle sweet potato syrup 3. Pour milk 4. Garnish sweet potato powder 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Sweet Potato Latte with extra milk.",
+    "response": "1. Place cup 2. Drizzle sweet potato syrup 3. Pour milk 4. Garnish sweet potato powder 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Sweet Potato Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle sweet potato syrup 3. Pour milk 4. Garnish sweet potato powder 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Sweet Potato Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle sweet potato syrup 3. Pour milk 4. Garnish sweet potato powder 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a One Sweet Potato Latte with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Drizzle sweet potato syrup 3. Pour milk 4. Garnish sweet potato powder 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Grain Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle multigrain syrup 3. Pour milk 4. Garnish grain powder 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Grain Latte with extra milk.",
+    "response": "1. Place cup 2. Drizzle multigrain syrup 3. Pour milk 4. Garnish grain powder 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Grain Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle multigrain syrup 3. Pour milk 4. Garnish grain powder 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Grain Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle multigrain syrup 3. Pour milk 4. Garnish grain powder 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a One Grain Latte with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Drizzle multigrain syrup 3. Pour milk 4. Garnish grain powder 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Green Tea Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Pour green tea concentrate 3. Pour milk 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "I would like to order a Green Tea Latte with extra milk.",
+    "response": "1. Place cup 2. Pour green tea concentrate 3. Pour milk 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Green Tea Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Pour green tea concentrate 3. Pour milk 4. Drizzle vanilla syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Would you get me a Green Tea Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Pour green tea concentrate 3. Pour milk 4. Garnish whipped cream 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "May I have a Latte with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Pour green tea concentrate 3. Pour milk 4. Drizzle caramel syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Please may I have a Mint-Cream Choco Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Drizzle mint syrup 4. Pour milk 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Mint-Cream Choco Latte with extra milk.",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Drizzle mint syrup 4. Pour milk 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Mint-Cream Choco Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Drizzle mint syrup 4. Pour milk 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Mint-Cream Choco Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Drizzle mint syrup 4. Pour milk 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a One Mint-Cream Choco Latte with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Drizzle mint syrup 4. Pour milk 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Royal Milk-Tea Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Pour black tea concentrate 3. Pour milk 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "I would like to order a Royal Milk-Tea Latte with extra milk.",
+    "response": "1. Place cup 2. Pour black tea concentrate 3. Pour milk 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Royal Milk-Tea Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Pour black tea concentrate 3. Pour milk 4. Drizzle vanilla syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Would you get me a Royal Milk-Tea Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Pour black tea concentrate 3. Pour milk 4. Garnish whipped cream 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "May I have a Latte with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Pour black tea concentrate 3. Pour milk 4. Drizzle caramel syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Please may I have a Mega Choco Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "I would like to order a Mega Choco Latte with extra milk.",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Mega Choco Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Drizzle vanilla syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Would you get me a Mega Choco Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Garnish whipped cream 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "May I have a Choco Latte with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Drizzle caramel syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Please may I have a Oreo Choco Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Garnish crushed Oreo 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "I would like to order a Oreo Choco Latte with extra milk.",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Garnish crushed Oreo 5. Pour milk 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Oreo Choco Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Garnish crushed Oreo 5. Drizzle vanilla syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Would you get me a Oreo Choco Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Garnish crushed Oreo 5. Garnish whipped cream 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "May I have a One Oreo Choco Latte with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Garnish crushed Oreo 5. Drizzle caramel syrup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Please may I have a Choco Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "I would like to order a Choco Latte with extra milk.",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Choco Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Drizzle vanilla syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Would you get me a Choco Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Garnish whipped cream 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "May I have a One Choco Latte with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Drizzle caramel syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Please may I have a Toffee-Nut Latte with an extra shot of espresso?",
+    "response": "1. Place cup 2. Drizzle toffee nut syrup 3. Pour milk 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "I would like to order a Toffee-Nut Latte with extra milk.",
+    "response": "1. Place cup 2. Drizzle toffee nut syrup 3. Pour milk 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Toffee-Nut Latte with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Drizzle toffee nut syrup 3. Pour milk 4. Drizzle vanilla syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Would you get me a Toffee-Nut Latte with whipped cream, please?",
+    "response": "1. Place cup 2. Drizzle toffee nut syrup 3. Pour milk 4. Garnish whipped cream 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "May I have a One Toffee-Nut Latte with caramel drizzle, please., thank you?",
+    "response": "1. Place cup 2. Drizzle toffee nut syrup 3. Pour milk 4. Drizzle caramel syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Please may I have a Cookie Frappe with an extra shot of espresso?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle cookie syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Cookie Frappe with extra milk.",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle cookie syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Cookie Frappe with a dash of vanilla syrup for me?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle cookie syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Cookie Frappe with whipped cream, please?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle cookie syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a One Cookie Frappe with caramel drizzle, please., thank you?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle cookie syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Strawberry Cheeseholic Frappe with an extra shot of espresso?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Drizzle cream cheese syrup 5. Pour milk 6. Blend well 7. Pour into cup 8. Pour espresso 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "I would like to order a Strawberry Cheeseholic Frappe with extra milk.",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Drizzle cream cheese syrup 5. Pour milk 6. Blend well 7. Pour into cup 8. Pour milk 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Strawberry Cheeseholic Frappe with a dash of vanilla syrup for me?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Drizzle cream cheese syrup 5. Pour milk 6. Blend well 7. Pour into cup 8. Drizzle vanilla syrup 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "Would you get me a Strawberry Cheeseholic Frappe with whipped cream, please?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Drizzle cream cheese syrup 5. Pour milk 6. Blend well 7. Pour into cup 8. Garnish whipped cream 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "May I have a One Strawberry Cheeseholic Frappe with caramel drizzle, please., thank you?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Drizzle cream cheese syrup 5. Pour milk 6. Blend well 7. Pour into cup 8. Drizzle caramel syrup 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "Please may I have a Mint Frappe with an extra shot of espresso?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle mint syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Mint Frappe with extra milk.",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle mint syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Mint Frappe with a dash of vanilla syrup for me?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle mint syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Mint Frappe with whipped cream, please?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle mint syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a One Mint Frappe with caramel drizzle, please., thank you?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle mint syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Real Choco Frappe with an extra shot of espresso?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle chocolate syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Real Choco Frappe with extra milk.",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle chocolate syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Real Choco Frappe with a dash of vanilla syrup for me?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle chocolate syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Real Choco Frappe with whipped cream, please?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle chocolate syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a One Real Choco Frappe with caramel drizzle, please., thank you?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle chocolate syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Strawberry Cookie Frappe with an extra shot of espresso?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Drizzle cookie syrup 5. Pour milk 6. Blend well 7. Pour into cup 8. Pour espresso 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "I would like to order a Strawberry Cookie Frappe with extra milk.",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Drizzle cookie syrup 5. Pour milk 6. Blend well 7. Pour into cup 8. Pour milk 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Strawberry Cookie Frappe with a dash of vanilla syrup for me?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Drizzle cookie syrup 5. Pour milk 6. Blend well 7. Pour into cup 8. Drizzle vanilla syrup 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "Would you get me a Strawberry Cookie Frappe with whipped cream, please?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Drizzle cookie syrup 5. Pour milk 6. Blend well 7. Pour into cup 8. Garnish whipped cream 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "May I have a One Strawberry Cookie Frappe with caramel drizzle, please., thank you?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Drizzle cookie syrup 5. Pour milk 6. Blend well 7. Pour into cup 8. Drizzle caramel syrup 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "Please may I have a Plain Pong Crush with an extra shot of espresso?",
+    "response": "1. Prepare blender 2. Add ice 3. Pour milk 4. Blend well 5. Pour into cup 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Plain Pong Crush with extra milk.",
+    "response": "1. Prepare blender 2. Add ice 3. Pour milk 4. Blend well 5. Pour into cup 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Plain Pong Crush with a dash of vanilla syrup for me?",
+    "response": "1. Prepare blender 2. Add ice 3. Pour milk 4. Blend well 5. Pour into cup 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Plain Pong Crush with whipped cream, please?",
+    "response": "1. Prepare blender 2. Add ice 3. Pour milk 4. Blend well 5. Pour into cup 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a One Plain Pong Crush with caramel drizzle, please., thank you?",
+    "response": "1. Prepare blender 2. Add ice 3. Pour milk 4. Blend well 5. Pour into cup 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Strawberry Pong Crush with an extra shot of espresso?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Strawberry Pong Crush with extra milk.",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Strawberry Pong Crush with a dash of vanilla syrup for me?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Strawberry Pong Crush with whipped cream, please?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a One Strawberry Pong Crush with caramel drizzle, please., thank you?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Banana Pong Crush with an extra shot of espresso?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle banana syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Banana Pong Crush with extra milk.",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle banana syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Banana Pong Crush with a dash of vanilla syrup for me?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle banana syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Banana Pong Crush with whipped cream, please?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle banana syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a Pong Crush with caramel drizzle, thank you?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle banana syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Unicorn Frappe with an extra shot of espresso?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle colored syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Unicorn Frappe with extra milk.",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle colored syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Unicorn Frappe with a dash of vanilla syrup for me?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle colored syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Unicorn Frappe with whipped cream, please?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle colored syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a One Unicorn Frappe with caramel drizzle, please., thank you?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle colored syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Green Tea Frappe with an extra shot of espresso?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle green tea syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Green Tea Frappe with extra milk.",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle green tea syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Green Tea Frappe with a dash of vanilla syrup for me?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle green tea syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Green Tea Frappe with whipped cream, please?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle green tea syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a Frappe with caramel drizzle, thank you?",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle green tea syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Coffee Frappe with an extra shot of espresso?",
+    "response": "1. Prepare blender 2. Add ice 3. Pour cold brew 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Coffee Frappe with extra milk.",
+    "response": "1. Prepare blender 2. Add ice 3. Pour cold brew 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Coffee Frappe with a dash of vanilla syrup for me?",
+    "response": "1. Prepare blender 2. Add ice 3. Pour cold brew 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Coffee Frappe with whipped cream, please?",
+    "response": "1. Prepare blender 2. Add ice 3. Pour cold brew 4. Pour milk 5. Blend well 6. Pour into cup 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a One Coffee Frappe with caramel drizzle, please., thank you?",
+    "response": "1. Prepare blender 2. Add ice 3. Pour cold brew 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Plain Yogurt Smoothie with an extra shot of espresso?",
+    "response": "1. Prepare blender 2. Add ice 3. Add yogurt 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Plain Yogurt Smoothie with extra milk.",
+    "response": "1. Prepare blender 2. Add ice 3. Add yogurt 4. Pour milk 5. Blend well 6. Pour into cup 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Plain Yogurt Smoothie with a dash of vanilla syrup for me?",
+    "response": "1. Prepare blender 2. Add ice 3. Add yogurt 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Plain Yogurt Smoothie with whipped cream, please?",
+    "response": "1. Prepare blender 2. Add ice 3. Add yogurt 4. Pour milk 5. Blend well 6. Pour into cup 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a One Plain Yogurt Smoothie with caramel drizzle, please., thank you?",
+    "response": "1. Prepare blender 2. Add ice 3. Add yogurt 4. Pour milk 5. Blend well 6. Pour into cup 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Mango Yogurt Smoothie with an extra shot of espresso?",
+    "response": "1. Prepare blender 2. Add ice 3. Add mango puree 4. Add yogurt 5. Pour milk 6. Blend well 7. Pour into cup 8. Pour espresso 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "I would like to order a Mango Yogurt Smoothie with extra milk.",
+    "response": "1. Prepare blender 2. Add ice 3. Add mango puree 4. Add yogurt 5. Pour milk 6. Blend well 7. Pour into cup 8. Pour milk 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Mango Yogurt Smoothie with a dash of vanilla syrup for me?",
+    "response": "1. Prepare blender 2. Add ice 3. Add mango puree 4. Add yogurt 5. Pour milk 6. Blend well 7. Pour into cup 8. Drizzle vanilla syrup 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "Would you get me a Mango Yogurt Smoothie with whipped cream, please?",
+    "response": "1. Prepare blender 2. Add ice 3. Add mango puree 4. Add yogurt 5. Pour milk 6. Blend well 7. Pour into cup 8. Garnish whipped cream 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "May I have a One Mango Yogurt Smoothie with caramel drizzle, please., thank you?",
+    "response": "1. Prepare blender 2. Add ice 3. Add mango puree 4. Add yogurt 5. Pour milk 6. Blend well 7. Pour into cup 8. Drizzle caramel syrup 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "Please may I have a Strawberry Yogurt Smoothie with an extra shot of espresso?",
+    "response": "1. Prepare blender 2. Add ice 3. Add strawberry puree 4. Add yogurt 5. Pour milk 6. Blend well 7. Pour into cup 8. Pour espresso 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "I would like to order a Strawberry Yogurt Smoothie with extra milk.",
+    "response": "1. Prepare blender 2. Add ice 3. Add strawberry puree 4. Add yogurt 5. Pour milk 6. Blend well 7. Pour into cup 8. Pour milk 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Strawberry Yogurt Smoothie with a dash of vanilla syrup for me?",
+    "response": "1. Prepare blender 2. Add ice 3. Add strawberry puree 4. Add yogurt 5. Pour milk 6. Blend well 7. Pour into cup 8. Drizzle vanilla syrup 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "Would you get me a Strawberry Yogurt Smoothie with whipped cream, please?",
+    "response": "1. Prepare blender 2. Add ice 3. Add strawberry puree 4. Add yogurt 5. Pour milk 6. Blend well 7. Pour into cup 8. Garnish whipped cream 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "May I have a One Strawberry Yogurt Smoothie with caramel drizzle, please., thank you?",
+    "response": "1. Prepare blender 2. Add ice 3. Add strawberry puree 4. Add yogurt 5. Pour milk 6. Blend well 7. Pour into cup 8. Drizzle caramel syrup 9. Serve beverage 10. Done"
+  },
+  {
+    "prompt": "Please may I have a Peach Iced Tea with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Add peach syrup 4. Pour black tea 5. Stir 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Peach Iced Tea with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Add peach syrup 4. Pour black tea 5. Stir 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Peach Iced Tea with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Add peach syrup 4. Pour black tea 5. Stir 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Peach Iced Tea with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Add peach syrup 4. Pour black tea 5. Stir 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Add ice 3. Add peach syrup 4. Pour black tea 5. Stir 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Apple Citron Tea with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle apple syrup 4. Pour hot water 5. Stir 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Apple Citron Tea with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle apple syrup 4. Pour hot water 5. Stir 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Apple Citron Tea with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle apple syrup 4. Pour hot water 5. Stir 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Apple Citron Tea with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle apple syrup 4. Pour hot water 5. Stir 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle apple syrup 4. Pour hot water 5. Stir 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Honey Grapefruit Black Tea with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle honey syrup 4. Add grapefruit slices 5. Pour black tea 6. Stir 7. Pour espresso 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "I would like to order a Honey Grapefruit Black Tea with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle honey syrup 4. Add grapefruit slices 5. Pour black tea 6. Stir 7. Pour milk 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Honey Grapefruit Black Tea with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle honey syrup 4. Add grapefruit slices 5. Pour black tea 6. Stir 7. Drizzle vanilla syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Would you get me a Honey Grapefruit Black Tea with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle honey syrup 4. Add grapefruit slices 5. Pour black tea 6. Stir 7. Garnish whipped cream 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "May I have a with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle honey syrup 4. Add grapefruit slices 5. Pour black tea 6. Stir 7. Drizzle caramel syrup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Please may I have a Grapefruit Tea with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Pour hot water 5. Stir 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Grapefruit Tea with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Pour hot water 5. Stir 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Grapefruit Tea with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Pour hot water 5. Stir 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Grapefruit Tea with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Pour hot water 5. Stir 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Pour hot water 5. Stir 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Citron Tea with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle citron syrup 4. Pour hot water 5. Stir 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Citron Tea with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle citron syrup 4. Pour hot water 5. Stir 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Citron Tea with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle citron syrup 4. Pour hot water 5. Stir 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Citron Tea with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle citron syrup 4. Pour hot water 5. Stir 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle citron syrup 4. Pour hot water 5. Stir 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Lemon Tea with an extra shot of espresso?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle lemon syrup 4. Pour hot water 5. Stir 6. Pour espresso 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "I would like to order a Lemon Tea with extra milk.",
+    "response": "1. Place cup 2. Add ice 3. Drizzle lemon syrup 4. Pour hot water 5. Stir 6. Pour milk 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Lemon Tea with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle lemon syrup 4. Pour hot water 5. Stir 6. Drizzle vanilla syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Would you get me a Lemon Tea with whipped cream, please?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle lemon syrup 4. Pour hot water 5. Stir 6. Garnish whipped cream 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "May I have a with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Add ice 3. Drizzle lemon syrup 4. Pour hot water 5. Stir 6. Drizzle caramel syrup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Please may I have a Chamomile Tea with an extra shot of espresso?",
+    "response": "1. Place cup 2. Pour chamomile tea 3. Stir 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "I would like to order a Chamomile Tea with extra milk.",
+    "response": "1. Place cup 2. Pour chamomile tea 3. Stir 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Chamomile Tea with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Pour chamomile tea 3. Stir 4. Drizzle vanilla syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Would you get me a Chamomile Tea with whipped cream, please?",
+    "response": "1. Place cup 2. Pour chamomile tea 3. Stir 4. Garnish whipped cream 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "May I have a with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Pour chamomile tea 3. Stir 4. Drizzle caramel syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Please may I have a Peppermint Tea with an extra shot of espresso?",
+    "response": "1. Place cup 2. Pour peppermint tea 3. Stir 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "I would like to order a Peppermint Tea with extra milk.",
+    "response": "1. Place cup 2. Pour peppermint tea 3. Stir 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Peppermint Tea with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Pour peppermint tea 3. Stir 4. Drizzle vanilla syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Would you get me a Peppermint Tea with whipped cream, please?",
+    "response": "1. Place cup 2. Pour peppermint tea 3. Stir 4. Garnish whipped cream 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "May I have a with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Pour peppermint tea 3. Stir 4. Drizzle caramel syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Please may I have a Earl Grey Tea with an extra shot of espresso?",
+    "response": "1. Place cup 2. Pour Earl Grey tea 3. Stir 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "I would like to order a Earl Grey Tea with extra milk.",
+    "response": "1. Place cup 2. Pour Earl Grey tea 3. Stir 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Earl Grey Tea with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Pour Earl Grey tea 3. Stir 4. Drizzle vanilla syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Would you get me a Earl Grey Tea with whipped cream, please?",
+    "response": "1. Place cup 2. Pour Earl Grey tea 3. Stir 4. Garnish whipped cream 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "May I have a with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Pour Earl Grey tea 3. Stir 4. Drizzle caramel syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Please may I have a Green Tea with an extra shot of espresso?",
+    "response": "1. Place cup 2. Pour green tea 3. Stir 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "I would like to order a Green Tea with extra milk.",
+    "response": "1. Place cup 2. Pour green tea 3. Stir 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Could you please prepare a Green Tea with a dash of vanilla syrup for me?",
+    "response": "1. Place cup 2. Pour green tea 3. Stir 4. Drizzle vanilla syrup 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Would you get me a Green Tea with whipped cream, please?",
+    "response": "1. Place cup 2. Pour green tea 3. Stir 4. Garnish whipped cream 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "May I have a with caramel drizzle, thank you?",
+    "response": "1. Place cup 2. Pour green tea 3. Stir 4. Drizzle caramel syrup 5. Serve beverage 6. Done"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "prompt": "Honey Lavender Latte",
+    "response": "1. Place Cup 2. Pour honey 3. Pour milk 4. Pour espresso 5. Drizzle lavender syrup 6. Pour milk 7. Garnish lavender 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Maple Pecan Brew",
+    "response": "1. Place Cup 2. Pour water 3. Pour espresso 4. Drizzle maple syrup 5. Drizzle pecan syrup 6. Pour milk 7. Garnish pecan 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Coconut Espresso",
+    "response": "1. Place Cup 2. Pour espresso 3. Drizzle coconut syrup 4. Pour coconut milk 5. Garnish coconut 6. Serve Beverage 7. Done"
+  },
+  {
+    "prompt": "Raspberry Rose Cappuccino",
+    "response": "1. Place Cup 2. Pour espresso 3. Drizzle rose syrup 4. Drizzle raspberry syrup 5. Pour milk 6. Garnish raspberry 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Citrus Ginger Espresso",
+    "response": "1. Place Cup 2. Pour espresso 3. Drizzle ginger syrup 4. Pour lemon juice 5. Drizzle orange syrup 6. Garnish citrus 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Turmeric Chai Latte",
+    "response": "1. Place Cup 2. Pour chai concentrate 3. Pour turmeric 4. Drizzle cinnamon syrup 5. Pour milk 6. Garnish spice 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Honey Almond Velvet Latte",
+    "response": "1. Place Cup 2. Pour espresso 3. Pour almond milk 4. Drizzle honey syrup 5. Drizzle vanilla syrup 6. Pour milk 7. Garnish almond 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Spiced Maple Cortado",
+    "response": "1. Place Cup 2. Pour espresso 3. Pour milk 4. Drizzle maple syrup 5. Pour cinnamon 6. Pour nutmeg 7. Garnish spice 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Ginger Snap Espresso",
+    "response": "1. Place Cup 2. Pour espresso 3. Drizzle gingerbread syrup 4. Pour ground ginger 5. Pour clove 6. Pour cream 7. Garnish ginger powder 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Berry Infused Americano",
+    "response": "1. Place Cup 2. Add ice 3. Pour water 4. Pour espresso 5. Drizzle berry syrup 6. Garnish berry 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Banana Mocha",
+    "response": "1. Place Cup 2. Pour espresso 3. Pour banana puree 4. Drizzle chocolate syrup 5. Pour milk 6. Pour caramel 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Citrus Twist Brew",
+    "response": "1. Place Cup 2. Pour brew 3. Drizzle citrus syrup 4. Pour orange juice 5. Garnish orange 6. Serve Beverage 7. Done"
+  },
+  {
+    "prompt": "Blackberry Sage Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle blackberry syrup 5. Drizzle sage syrup 6. Pour milk 7. Garnish blackberry 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Passionfruit Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle passionfruit syrup 5. Pour water 6. Pour lime juice 7. Garnish lime 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Lychee Green Tea Fizz",
+    "response": "1. Place Cup 2. Add ice 3. Pour green tea 4. Drizzle lychee syrup 5. Pour water 6. Garnish lychee 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Cinnamon Honey Flat White",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Pour milk 5. Drizzle cinnamon honey syrup 6. Pour cinnamon 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Choco-Mint Espresso Cooler",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle mint chocolate syrup 5. Pour milk 6. Garnish mint 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Eggnog Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle eggnog syrup 5. Pour milk 6. Pour nutmeg 7. Pour cinnamon 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Brown Sugar Cardamom Latte",
+    "response": "1. Place Cup 2. Pour espresso 3. Pour milk 4. Drizzle brown sugar syrup 5. Drizzle cardamom syrup 6. Pour milk 7. Garnish cardamom 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Thai Tea Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour Thai tea concentrate 4. Pour condensed milk 5. Pour milk 6. Serve Beverage 7. Done"
+  },
+  {
+    "prompt": "Hibiscus Lemonade",
+    "response": "1. Place Cup 2. Add ice 3. Pour hibiscus tea 4. Drizzle lemonade syrup 5. Pour water 6. Garnish lemon 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Rosemary Citrus Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle rosemary citrus syrup 5. Pour water 6. Garnish rosemary 7. Garnish citrus 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Mint Mojito Brew",
+    "response": "1. Place Cup 2. Add ice 3. Pour brew 4. Drizzle mint mojito syrup 5. Pour water 6. Garnish mint 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Avocado Matcha Shake",
+    "response": "1. Place Cup 2. Add ice 3. Pour avocado puree 4. Pour matcha 5. Drizzle vanilla syrup 6. Pour oat milk 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Green Tea Coconut Refresher",
+    "response": "1. Place Cup 2. Add ice 3. Pour green tea 4. Drizzle coconut syrup 5. Pour coconut milk 6. Garnish coconut 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Peach Basil Infusion",
+    "response": "1. Place Cup 2. Add ice 3. Pour tea 4. Drizzle peach syrup 5. Pour basil 6. Garnish peach 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Cranberry Sage Tea Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour cranberry tea 4. Drizzle sage syrup 5. Drizzle cranberry syrup 6. Pour milk 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Watermelon Mint Cooler",
+    "response": "1. Place Cup 2. Add ice 3. Pour watermelon juice 4. Drizzle mint syrup 5. Pour water 6. Garnish mint 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Lychee Rose Sparkler",
+    "response": "1. Place Cup 2. Add ice 3. Drizzle lychee syrup 4. Drizzle rose syrup 5. Pour water 6. Garnish rose 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Guava Citrus Refresher",
+    "response": "1. Place Cup 2. Add ice 3. Pour guava juice 4. Drizzle citrus syrup 5. Pour lemonade 6. Garnish citrus 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Apple Chai",
+    "response": "1. Place Cup 2. Add ice 3. Pour chai concentrate 4. Drizzle apple syrup 5. Drizzle caramel syrup 6. Pour milk 7. Garnish apple 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Choco-Chili Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle chocolate syrup 5. Pour cayenne pepper 6. Garnish cocoa powder 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Honey Lavender Brew",
+    "response": "1. Place Cup 2. Add ice 3. Pour brew 4. Drizzle honey lavender syrup 5. Garnish lavender 6. Serve Beverage 7. Done"
+  },
+  {
+    "prompt": "Espresso Tonic Ginger Twist",
+    "response": "1. Place Cup 2. Add ice 3. Pour tonic water 4. Pour espresso 5. Drizzle ginger syrup 6. Garnish lime 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Citrus Molasses Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle citrus molasses syrup 5. Pour milk 6. Garnish orange zest 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Zesty Lime Mocha",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle mocha syrup 5. Pour lime juice 6. Pour milk 7. Garnish lime twist 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Pomegranate Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle pomegranate syrup 5. Pour water 6. Garnish pomegranate 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Lemonade Espresso Fusion",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle lemonade syrup 5. Pour water 6. Garnish lemon 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Dirty Chai with Coconut",
+    "response": "1. Place Cup 2. Add ice 3. Pour chai concentrate 4. Pour espresso 5. Pour milk 6. Pour coconut 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Maple Walnut Brew",
+    "response": "1. Place Cup 2. Add ice 3. Pour brew 4. Drizzle maple syrup 5. Drizzle walnut syrup 6. Pour milk 7. Garnish walnut 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Ruby Red Grapefruit Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle grapefruit syrup 5. Pour grapefruit juice 6. Garnish grapefruit 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Spiced Pear Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle pear syrup 5. Pour ground clove 6. Pour milk 7. Garnish pear 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Ginger Turmeric Brew",
+    "response": "1. Place Cup 2. Add ice 3. Pour brew 4. Drizzle ginger syrup 5. Pour turmeric powder 6. Garnish ginger 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Marigold Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Pour milk 5. Drizzle marigold syrup 6. Garnish marigold 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Golden Milk Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Pour milk 5. Pour turmeric 6. Serve Beverage 7. Done"
+  },
+  {
+    "prompt": "Matcha Coconut Frappe",
+    "response": "1. Place Cup 2. Add ice 3. Pour matcha 4. Drizzle coconut syrup 5. Pour coconut milk 6. Garnish coconut 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Mint Chocolate Frappe",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle chocolate mint syrup 5. Pour milk 6. Garnish mint 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Blackberry Ginger Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle blackberry syrup 5. Drizzle ginger syrup 6. Pour milk 7. Garnish blackberry 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Jasmine Citrus Tea",
+    "response": "1. Place Cup 2. Add ice 3. Pour jasmine tea 4. Drizzle citrus syrup 5. Pour lemon juice 6. Garnish lemon 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Caramel Ginger Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle caramel syrup 5. Drizzle ginger syrup 6. Pour milk 7. Garnish ginger 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Spiced Mulberry Latte",
+    "response": "1. Place Cup 2. Pour espresso 3. Drizzle mulberry syrup 4. Drizzle spiced syrup 5. Pour milk 6. Garnish mulberry 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Plum Cardamom Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle plum syrup 5. Drizzle cardamom syrup 6. Pour milk 7. Garnish plum 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Rose Pistachio Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle rose syrup 5. Drizzle pistachio syrup 6. Pour milk 7. Garnish pistachio 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Minted Green Tea",
+    "response": "1. Place Cup 2. Add ice 3. Pour green tea 4. Drizzle mint syrup 5. Pour lime juice 6. Garnish mint 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Caramel Banana Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle caramel syrup 5. Pour banana puree 6. Pour milk 7. Garnish banana 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Pomegranate Mint Refresher",
+    "response": "1. Place Cup 2. Add ice 3. Pour pomegranate juice 4. Drizzle mint syrup 5. Pour water 6. Garnish pomegranate 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Blackberry Mojito Brew",
+    "response": "1. Place Cup 2. Add ice 3. Pour brew 4. Drizzle blackberry syrup 5. Drizzle mint syrup 6. Pour water 7. Garnish blackberry 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Vanilla Caramel Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle vanilla syrup 5. Drizzle caramel syrup 6. Pour milk 7. Garnish vanilla 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Pumpkin Spice Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle pumpkin syrup 5. Drizzle spiced syrup 6. Pour milk 7. Garnish pumpkin spice 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Spiced Coconut Chai Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour chai concentrate 4. Drizzle coconut syrup 5. Drizzle spiced syrup 6. Pour coconut milk 7. Garnish coconut 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Maple Cinnamon Mocha",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle maple syrup 5. Drizzle chocolate syrup 6. Drizzle cinnamon syrup 7. Pour milk 8. Garnish maple 9. Serve Beverage 10. Done"
+  },
+  {
+    "prompt": "Citrus Ginger Green Tea",
+    "response": "1. Place Cup 2. Add ice 3. Pour green tea 4. Drizzle citrus syrup 5. Drizzle ginger syrup 6. Pour lime juice 7. Garnish lime 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Tropical Citrus Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle tropical citrus syrup 5. Pour pineapple juice 6. Garnish pineapple 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Vanilla Blueberry Cold Brew",
+    "response": "1. Place Cup 2. Add ice 3. Pour brew 4. Drizzle vanilla syrup 5. Drizzle blueberry syrup 6. Pour milk 7. Garnish blueberry 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Cranberry Citrus Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle cranberry syrup 5. Drizzle citrus syrup 6. Pour milk 7. Garnish cranberry 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Apricot Vanilla Tea",
+    "response": "1. Place Cup 2. Add ice 3. Pour apricot tea 4. Drizzle vanilla syrup 5. Pour milk 6. Garnish apricot 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Black Tea Mango Cooler",
+    "response": "1. Place Cup 2. Add ice 3. Pour black tea 4. Drizzle mango syrup 5. Pour water 6. Garnish mango 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Espresso Macchiato",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Pour milk 5. Pour milk 6. Serve Beverage 7. Done"
+  },
+  {
+    "prompt": "Chai Vanilla Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour chai concentrate 4. Drizzle vanilla syrup 5. Pour milk 6. Serve Beverage 7. Done"
+  },
+  {
+    "prompt": "Cold Brew Affogato",
+    "response": "1. Place Cup 2. Add ice 3. Pour brew 4. Pour espresso 5. Add ice cream 6. Serve Beverage 7. Done"
+  },
+  {
+    "prompt": "Hazelnut Mocha Frappe",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle hazelnut syrup 5. Drizzle chocolate syrup 6. Pour milk 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Vanilla Chai Tea",
+    "response": "1. Place Cup 2. Add ice 3. Pour chai tea 4. Drizzle vanilla syrup 5. Pour milk 6. Serve Beverage 7. Done"
+  },
+  {
+    "prompt": "Cinnamon Cocoa Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle cocoa syrup 5. Drizzle cinnamon syrup 6. Pour milk 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Matcha Mint Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour matcha 4. Drizzle mint syrup 5. Pour milk 6. Serve Beverage 7. Done"
+  },
+  {
+    "prompt": "Espresso Frappe",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Pour milk 5. Serve Beverage 6. Done"
+  },
+  {
+    "prompt": "Caramel Nut Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle caramel syrup 5. Drizzle nut syrup 6. Pour milk 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Orange Cream Cold Brew",
+    "response": "1. Place Cup 2. Add ice 3. Pour brew 4. Drizzle orange syrup 5. Pour milk 6. Serve Beverage 7. Done"
+  },
+  {
+    "prompt": "Choco Hazelnut Affogato",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle hazelnut syrup 5. Drizzle chocolate syrup 6. Add ice cream 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Mint Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle mint syrup 5. Serve Beverage 6. Done"
+  },
+  {
+    "prompt": "Vanilla Almond Brew",
+    "response": "1. Place Cup 2. Add ice 3. Pour brew 4. Drizzle vanilla syrup 5. Pour almond milk 6. Serve Beverage 7. Done"
+  },
+  {
+    "prompt": "Caramel Cinnamon Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle caramel syrup 5. Drizzle cinnamon syrup 6. Pour milk 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Raspberry Coconut Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle raspberry syrup 5. Pour coconut milk 6. Serve Beverage 7. Done"
+  },
+  {
+    "prompt": "Blueberry Lime Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle blueberry syrup 5. Pour lime juice 6. Garnish lime 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Spiced Honey Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle honey syrup 5. Drizzle spiced syrup 6. Pour milk 7. Garnish honey 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Almond Joy Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle almond syrup 5. Drizzle coconut syrup 6. Pour milk 7. Garnish almond 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Cardamom Chai Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour chai concentrate 4. Pour espresso 5. Drizzle cardamom syrup 6. Pour milk 7. Garnish cardamom 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Mocha Mint Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle mocha syrup 5. Drizzle mint syrup 6. Pour milk 7. Garnish mint 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Maple Almond Brew",
+    "response": "1. Place Cup 2. Add ice 3. Pour brew 4. Drizzle maple syrup 5. Drizzle almond syrup 6. Pour almond milk 7. Garnish maple 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Ginger Pear Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle ginger syrup 5. Drizzle pear syrup 6. Pour milk 7. Garnish pear 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Cherry Vanilla Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle cherry syrup 5. Drizzle vanilla syrup 6. Pour milk 7. Garnish cherry 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Lavender Mocha",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle mocha syrup 5. Drizzle lavender syrup 6. Pour milk 7. Garnish lavender 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Banana Nut Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle banana syrup 5. Drizzle nut syrup 6. Pour milk 7. Garnish nut 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Cacao Citrus Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle cacao syrup 5. Drizzle citrus syrup 6. Pour milk 7. Garnish citrus 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Vanilla Rose Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle vanilla syrup 5. Drizzle rose syrup 6. Pour milk 7. Garnish rose 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Date Caramel Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle date syrup 5. Drizzle caramel syrup 6. Pour milk 7. Garnish date 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Zesty Orange Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle orange syrup 5. Pour orange juice 6. Garnish orange 7. Serve Beverage 8. Done"
+  },
+  {
+    "prompt": "Spiced Plum Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle plum syrup 5. Drizzle spiced syrup 6. Pour milk 7. Garnish plum 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Honey Fig Latte",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle honey syrup 5. Drizzle fig syrup 6. Pour milk 7. Garnish fig 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Blueberry Mint Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle blueberry syrup 5. Drizzle mint syrup 6. Pour milk 7. Garnish mint 8. Serve Beverage 9. Done"
+  },
+  {
+    "prompt": "Tropical Berry Espresso",
+    "response": "1. Place Cup 2. Add ice 3. Pour espresso 4. Drizzle tropical berry syrup 5. Pour pineapple juice 6. Pour milk 7. Garnish berry 8. Serve Beverage 9. Done"
+  }
+]

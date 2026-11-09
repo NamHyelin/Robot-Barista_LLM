@@ -1,0 +1,290 @@
+[
+  {
+    "prompt": "Americano",
+    "response": "1. Place cup 2. Pour water 3. Pour espresso 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "Mega Americano",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Hal-Mega Coffee",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "King Hal-Mega Coffee",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Hazelnut Americano",
+    "response": "1. Place cup 2. Add ice 3. Drizzle hazelnut syrup 4. Pour water 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Vanilla Americano",
+    "response": "1. Place cup 2. Add ice 3. Drizzle vanilla syrup 4. Pour water 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Honey Americano",
+    "response": "1. Place cup 2. Add ice 3. Drizzle honey syrup 4. Pour water 5. Pour espresso 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Cappuccino",
+    "response": "1. Place cup 2. Pour espresso 3. Pour milk 4. Pour milk foam 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Caramel Macchiato",
+    "response": "1. Place cup 2. Drizzle caramel syrup 3. Pour milk 4. Pour espresso 5. Garnish caramel 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Cafe Mocha",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour espresso 4. Pour milk 5. Garnish chocolate powder 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Mint Cafe Mocha",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Drizzle mint syrup 4. Pour espresso 5. Pour milk 6. Garnish mint leaf 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Hazelnut Latte",
+    "response": "1. Place cup 2. Drizzle hazelnut syrup 3. Pour espresso 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Vanilla Latte",
+    "response": "1. Place cup 2. Drizzle vanilla syrup 3. Pour espresso 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Tiramisu Latte",
+    "response": "1. Place cup 2. Drizzle tiramisu syrup 3. Pour espresso 4. Pour milk 5. Garnish cocoa powder 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Cube Latte",
+    "response": "1. Place cup 2. Add ice 3. Pour milk 4. Pour espresso 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Condensed-Milk Latte",
+    "response": "1. Place cup 2. Drizzle condensed milk 3. Pour espresso 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Cold Brew Original",
+    "response": "1. Place cup 2. Add ice 3. Pour cold brew 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "Cold Brew Latte",
+    "response": "1. Place cup 2. Add ice 3. Pour cold brew 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Cold Brew Concentrate",
+    "response": "1. Place cup 2. Pour cold brew concentrate 3. Serve beverage 4. Done"
+  },
+  {
+    "prompt": "Cold Brew Decaf",
+    "response": "1. Place cup 2. Add ice 3. Pour decaf cold brew 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "Cold Brew Decaf Latte",
+    "response": "1. Place cup 2. Add ice 3. Pour decaf cold brew 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Decaf Americano",
+    "response": "1. Place cup 2. Add ice 3. Pour water 4. Pour decaf espresso shots 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Decaf Cafe Latte",
+    "response": "1. Place cup 2. Drizzle none 3. Pour decaf espresso shots 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Cherry Coke",
+    "response": "1. Place cup 2. Add ice 3. Drizzle cherry syrup 4. Pour coke 5. Stir 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Lemonade",
+    "response": "1. Place cup 2. Add ice 3. Pour lemonade 4. Garnish lemon slice 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Blue Lemonade",
+    "response": "1. Place cup 2. Add ice 3. Drizzle blue syrup 4. Pour lemonade 5. Garnish lemon slice 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Grapefruit Ade",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Pour soda water 5. Stir 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Green Grape Ade",
+    "response": "1. Place cup 2. Add ice 3. Drizzle green grape syrup 4. Pour soda water 5. Stir 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Mega Ade",
+    "response": "1. Place cup 2. Add ice 3. Drizzle fruit syrup 4. Pour soda water 5. Stir 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Unicorn Magic Ade",
+    "response": "1. Place cup 2. Add ice 3. Drizzle colored syrup 4. Pour soda water 5. Stir 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Grapefruit Mojito",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Green Grape Mojito",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grape syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Lime Mojito",
+    "response": "1. Place cup 2. Add ice 3. Drizzle lime syrup 4. Drizzle mint syrup 5. Pour soda water 6. Stir 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Strawberry-Banana Juice",
+    "response": "1. Place cup 2. Add ice 3. Add strawberry syrup 4. Add banana syrup 5. Pour water 6. Stir 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Choco-Banana Juice",
+    "response": "1. Place cup 2. Add ice 3. Drizzle chocolate syrup 4. Add banana syrup 5. Pour milk 6. Stir 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Strawberry Juice",
+    "response": "1. Place cup 2. Add ice 3. Add strawberry syrup 4. Pour water 5. Stir 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Multigrain Banana Juice",
+    "response": "1. Place cup 2. Add ice 3. Add banana syrup 4. Add multigrain powder 5. Pour milk 6. Stir 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "King Mega Choco",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour espresso 4. Pour milk 5. Garnish chocolate powder 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Strawberry Latte",
+    "response": "1. Place cup 2. Drizzle strawberry syrup 3. Pour milk 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "Sweet Potato Latte",
+    "response": "1. Place cup 2. Drizzle sweet potato syrup 3. Pour milk 4. Garnish sweet potato powder 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Grain Latte",
+    "response": "1. Place cup 2. Drizzle multigrain syrup 3. Pour milk 4. Garnish grain powder 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Green Tea Latte",
+    "response": "1. Place cup 2. Drizzle none 3. Pour green tea concentrate 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Mint-Cream Choco Latte",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Drizzle mint syrup 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Royal Milk-Tea Latte",
+    "response": "1. Place cup 2. Drizzle none 3. Pour black tea concentrate 4. Pour milk 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Mega Choco Latte",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "Oreo Choco Latte",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Garnish crushed Oreo 5. Serve beverage 6. Done"
+  },
+  {
+    "prompt": "Choco Latte",
+    "response": "1. Place cup 2. Drizzle chocolate syrup 3. Pour milk 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "Toffee-Nut Latte",
+    "response": "1. Place cup 2. Drizzle toffee nut syrup 3. Pour milk 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "Cookie Frappe",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle cookie syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Strawberry Cheeseholic Frappe",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Drizzle cream cheese syrup 5. Pour milk 6. Blend well 7. Pour into cup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Mint Frappe",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle mint syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Real Choco Frappe",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle chocolate syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Strawberry Cookie Frappe",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Drizzle cookie syrup 5. Pour milk 6. Blend well 7. Pour into cup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Plain Pong Crush",
+    "response": "1. Prepare blender 2. Add ice 3. Pour milk 4. Blend well 5. Pour into cup 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Strawberry Pong Crush",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle strawberry syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Banana Pong Crush",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle banana syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Unicorn Frappe",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle colored syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Green Tea Frappe",
+    "response": "1. Prepare blender 2. Add ice 3. Drizzle green tea syrup 4. Pour milk 5. Blend well 6. Pour into cup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Coffee Frappe",
+    "response": "1. Prepare blender 2. Add ice 3. Pour cold brew 4. Pour milk 5. Blend well 6. Pour into cup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Plain Yogurt Smoothie",
+    "response": "1. Prepare blender 2. Add ice 3. Add yogurt 4. Pour milk 5. Blend well 6. Pour into cup 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Mango Yogurt Smoothie",
+    "response": "1. Prepare blender 2. Add ice 3. Add mango puree 4. Add yogurt 5. Pour milk 6. Blend well 7. Pour into cup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Strawberry Yogurt Smoothie",
+    "response": "1. Prepare blender 2. Add ice 3. Add strawberry puree 4. Add yogurt 5. Pour milk 6. Blend well 7. Pour into cup 8. Serve beverage 9. Done"
+  },
+  {
+    "prompt": "Peach Iced Tea",
+    "response": "1. Place cup 2. Add ice 3. Add peach syrup 4. Pour black tea 5. Stir 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Apple Citron Tea",
+    "response": "1. Place cup 2. Add ice 3. Drizzle apple syrup 4. Pour hot water 5. Stir 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Honey Grapefruit Black Tea",
+    "response": "1. Place cup 2. Add ice 3. Drizzle honey syrup 4. Add grapefruit slices 5. Pour black tea 6. Stir 7. Serve beverage 8. Done"
+  },
+  {
+    "prompt": "Grapefruit Tea",
+    "response": "1. Place cup 2. Add ice 3. Drizzle grapefruit syrup 4. Pour hot water 5. Stir 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Citron Tea",
+    "response": "1. Place cup 2. Add ice 3. Drizzle citron syrup 4. Pour hot water 5. Stir 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Lemon Tea",
+    "response": "1. Place cup 2. Add ice 3. Drizzle lemon syrup 4. Pour hot water 5. Stir 6. Serve beverage 7. Done"
+  },
+  {
+    "prompt": "Chamomile Tea",
+    "response": "1. Place cup 2. Pour chamomile tea 3. Stir 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "Peppermint Tea",
+    "response": "1. Place cup 2. Pour peppermint tea 3. Stir 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "Earl Grey Tea",
+    "response": "1. Place cup 2. Pour earl grey tea 3. Stir 4. Serve beverage 5. Done"
+  },
+  {
+    "prompt": "Green Tea",
+    "response": "1. Place cup 2. Pour green tea 3. Stir 4. Serve beverage 5. Done"
+  }
+]

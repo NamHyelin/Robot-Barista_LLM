@@ -1,0 +1,1 @@
+prompt,ground_truth,generated_plan,precision,recall,f1,true_skip_ratio,transmission_rate,num_tokens,latency_s,throughput_tok_per_s

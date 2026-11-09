@@ -1,0 +1,2014 @@
+[
+    {
+        "prompt": "Can I have a cafe mocha with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Cafe Latte with an extra shot of espresso please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Hi, I'd like a cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a cafe mocha with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Americano with an extra shot.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "A cafe latte with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, I'd like a caramel macchiato, please.\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Can I get a grande caramel macchiato, please?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Americano",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Medium caramel macchiato",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Hi, can I get an iced cafe mocha, please? Just regular milk.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"I'd like a cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "An americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Can I get a medium cafe mocha to go?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe Latte with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Americano",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Could I have a grande caramel macchiato?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Can I get a cafe mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "An Americano",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Caramel macchiato, please.\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a medium iced americano, please?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, I'd like a caramel macchiato, please.\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Medium cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Iced cafe latte, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, could I please get a cafe mocha?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a caramel macchiato with an extra shot of espresso?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Pour Espresso 7. Drizzle Caramel Syrup 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a caramel macchiato, please, with an extra shot of espresso?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Americano",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"I'll have an iced americano with an extra shot of espresso, please.\"",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Pour Espresso 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Americano with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Could I get a medium cafe latte, please? Thank you.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Large hot cafe mocha for here.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Can I get a cafe latte, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "\"Could I get a cafe mocha with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Pour Espresso 7. Drizzle Caramel Syrup 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Cafe mocha with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "A medium hot mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"I'd like a cafe mocha, please, with an extra shot of espresso. And with milk, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Americano",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Hi, can I get a grande caramel macchiato, please?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a cafe mocha with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Medium caramel macchiato",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get an iced cafe mocha?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"I'd like a cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Drizzle Chocolate Syrup 5. Pour Milk 6. Add Ice 7. Garnish Cocoa powder 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "\"Can I get a cafe mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe Latte, extra shot",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Hi, I'd like a cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a Grande Caramel Macchiato?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Medium iced cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Could I get a cafe mocha with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "A cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Large hot mocha with whipped cream, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Can I get a medium cafe mocha, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "One americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "A cafe mocha with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Can I get an americano, please?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "A cafe latte.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Cafe latte.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Cafe mocha",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Iced cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Could I get a cafe latte, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Medium cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Iced cafe latte with an extra shot of espresso.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Add Ice 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "A cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Caramel Macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Medium cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel Macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Could I get an americano, please?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Cafe latte with an extra shot please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Could I get a latte with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Hi, could I get an americano with an extra shot, please?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a cafe latte, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "\"Can I get a caramel macchiato with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Cafe latte with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced Americano with an extra shot.",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Pour Espresso 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Medium iced americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato with regular milk.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Cafe Latte with an extra shot of espresso",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Can I get a cafe latte, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Americano with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get an americano, please, with an extra shot?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe latte please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Americano",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Hi, could I get a cafe mocha please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I have a cafe latte, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Could I get a cafe mocha with an extra shot?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced cafe latte with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Add Ice 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Hello, I'll have a medium cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "A cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Can I get a caramel macchiato with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "A latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Double shot americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe Latte with an extra shot",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Can I get an americano?",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Medium mocha.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato with an extra shot of espresso.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Pour Espresso 7. Drizzle Caramel Syrup 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Medium iced americano",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get an americano with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "A medium cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Can I get a medium hot cafe mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Americano with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get an iced cafe mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "americano",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a cafe mocha please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Could I get a cafe mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get an iced cafe mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Can I get an americano, please?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Could I have a grande caramel macchiato, please?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, could I please get a cafe mocha with an extra shot of espresso?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get an iced Americano with an extra shot, please?",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Pour Espresso 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get a cafe mocha?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a cafe mocha please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe Latte with an extra shot",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Medium hot caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Americano with an extra shot please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Americano",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Americano, please.\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Can I get an iced americano, please?",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Medium iced caramel macchiato",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Pour Espresso 7. Drizzle Caramel Syrup 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Medium caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get an iced caramel macchiato, please?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "A caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a caramel macchiato, please, with an extra shot of espresso?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get a medium caramel macchiato, please?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a grande iced caramel macchiato?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "I'd like an iced caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Pour Espresso 7. Drizzle Caramel Syrup 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get an iced cafe mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Americano with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a caramel macchiato, please?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a mocha with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a caramel macchiato, please?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "A cafe latte.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "\"Could I get a cafe latte, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Can I get a cafe mocha, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe mocha.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe Mocha with an extra shot of espresso",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "I'd like an iced cafe latte.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get a caramel macchiato?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a medium hot caramel macchiato?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Medium hot mocha.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Pour Espresso 7. Drizzle Caramel Syrup 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Can I get a caramel macchiato with an extra shot of espresso?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get a medium cafe mocha, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a medium iced cafe mocha with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Drizzle Chocolate Syrup 5. Pour Milk 6. Add Ice 7. Garnish Cocoa powder 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "A caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Could I get an iced americano with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Pour Espresso 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Hi, could I please get a cafe mocha?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Can I get a caramel macchiato, please?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"I'd like a cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Hi, I'd like a cafe mocha with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get an americano?",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "A cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a cafe mocha with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "I'll take an iced cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "A cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Grande caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced Americano with an extra shot.",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Pour Espresso 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "A cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "I'll have a cafe latte with an extra shot.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Cafe Latte",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Can I get a medium iced caramel macchiato, please?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Hi, could I get a cafe mocha with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Can I get a cafe mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Hi, can I get a medium cafe mocha with regular milk, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"A cafe latte, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a caramel macchiato with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Americano",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "A cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a cafe mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a cafe mocha, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe Latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a cafe latte, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a cafe mocha with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get an iced cafe latte, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Cafe latte, extra shot.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Could I get an iced cafe latte with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Add Ice 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Can I get an americano, please?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "A medium Caramel Macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "\"Hi, I'd like a cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Caramel macchiato, medium.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Grande iced caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Cafe Latte with an extra shot of espresso please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Can I get an iced cafe mocha with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Drizzle Chocolate Syrup 5. Pour Milk 6. Add Ice 7. Garnish Cocoa powder 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "\"Americano, please.\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Can I get an americano?",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced americano with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Pour Espresso 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato with an extra shot, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Pour Espresso 7. Drizzle Caramel Syrup 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "I'd like an iced cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "A cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Can I get an americano?",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Medium cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Medium caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"A cafe latte, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a caramel macchiato, please?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "I'd like an iced caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Hi, I'd like a cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Could I get a medium mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I have a cafe latte please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Iced cafe latte",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "I'd like a grande iced caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get an iced caramel macchiato?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Cafe latte with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Can I get a cafe mocha with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "One medium caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe latte with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Add Ice 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get an iced cafe mocha with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Drizzle Chocolate Syrup 5. Pour Milk 6. Add Ice 7. Garnish Cocoa powder 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Can I get an iced americano, please?",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a cafe mocha with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Americano.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Grande caramel macchiato",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "A medium hot cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a cafe latte, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Cafe latte with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato with an extra shot, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Pour Espresso 7. Drizzle Caramel Syrup 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Hi, can I get a cafe mocha, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Drizzle Chocolate Syrup 5. Pour Milk 6. Add Ice 7. Garnish Cocoa powder 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Iced cafe latte with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Add Ice 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Could I get a cafe latte, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Can I get a cafe mocha with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced grande cafe mocha",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get an iced cafe latte, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "A medium caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "I'd like a medium cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Could I get a medium cafe mocha with whipped cream, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Grande iced caramel macchiato",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato with an extra shot of espresso.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Pour Espresso 7. Drizzle Caramel Syrup 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a cafe mocha please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Medium caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Could I please have a cafe latte?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Caramel Macchiato",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe mocha with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Americano with an extra shot.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe Latte with an extra shot of espresso.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Can I get an americano?",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Americano",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Hi, I'd like a cafe mocha please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Medium hot caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, I'd like an iced cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Americano with an extra shot.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Americano.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Can I get a caramel macchiato, please?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"An americano, please.\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "One large cafe mocha.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Can I get an iced cafe latte, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a caramel macchiato with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get an americano?",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Cafe Mocha",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Drizzle Chocolate Syrup 5. Pour Milk 6. Add Ice 7. Garnish Cocoa powder 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "\"Can I get an americano with an extra shot of espresso?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, could I please get an iced americano with an extra shot of espresso?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Pour Espresso 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Medium Caramel Macchiato",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Can I get a medium iced americano with an extra shot of espresso?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Pour Espresso 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Cafe latte",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a caramel macchiato, please? And could I add an extra shot of espresso to that?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Medium iced cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get an americano with an extra shot?",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Medium cafe mocha.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "A caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Could I get a cafe mocha with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "A latte with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"I'd like an iced cafe latte, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Can I get a caramel macchiato, please?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato with an extra shot, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Pour Espresso 7. Drizzle Caramel Syrup 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Can I get an iced cafe latte, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Pour Espresso 7. Drizzle Caramel Syrup 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Can I get a caramel macchiato, please? And could I also get an extra shot of espresso in it?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Cafe Mocha with an extra shot please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Could I get a cafe latte, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Americano with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Grande iced caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Americano",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Could I get an americano, please?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Could I get a medium americano, please?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Hi, I'd like to order an iced cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Medium caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "One americano please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Medium iced caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "One americano.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Large iced cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Hi, could I get a cafe mocha with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Can I get a cafe mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"I'll have a medium iced cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato, extra shot, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Pour Espresso 7. Drizzle Caramel Syrup 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Could I get a medium cafe mocha, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"I'd like a medium cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Can I get a cafe mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Could I get a cafe latte, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Grande caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a cafe latte, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "An iced americano.",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Grande Caramel Macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a medium cafe mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Can I get a caramel macchiato with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Iced cafe latte, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "I'd like an iced americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "A cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Could I get an americano, please?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"I'll have an iced cafe latte, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"A cafe latte, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Can I get a medium hot caramel macchiato?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Can I get a cafe mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe latte please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Can I get a cafe mocha, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, could I please get a caramel macchiato with an extra shot of espresso?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced Americano with an extra shot of espresso.",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Pour Espresso 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get a cafe mocha?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Drizzle Chocolate Syrup 5. Pour Milk 6. Add Ice 7. Garnish Cocoa powder 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "I'll have a caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Americano",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "I'll have a cafe latte with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "\"Can I get a cafe latte, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get an iced cafe mocha with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Drizzle Chocolate Syrup 5. Pour Milk 6. Add Ice 7. Garnish Cocoa powder 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Hi, could I get a medium cafe mocha, hot, with whipped cream, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "A medium hot mocha.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe mocha, extra shot.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe Latte with an extra shot of espresso",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Grande Caramel Macchiato with an extra shot.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "I'd like a cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, could I please get a caramel macchiato with an extra shot of espresso?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Cafe Mocha with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Could I get a cafe latte, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "A grande caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Could I get a cafe latte with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Can I get a cafe mocha please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "A medium hot cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Medium caramel macchiato",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "A large cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, I'd like a caramel macchiato, and could I please get an extra shot of espresso in it?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Cafe Latte, extra shot",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato with an extra shot, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Pour Espresso 7. Drizzle Caramel Syrup 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Cafe latte.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "I'd like an iced caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Can I get a caramel macchiato, please?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Could I have a cafe latte, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "\"Hi, could I get an americano, please, with an extra shot of espresso?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Medium hot cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe latte",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Hello, I'd like a medium cafe mocha with whipped cream, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced cafe latte with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Add Ice 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Hi, could I get a caramel macchiato, please, with an extra shot of espresso?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "A latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Hi, can I get a caramel macchiato, please?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Could I get a cafe mocha, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"A cafe latte, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha with an extra shot.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Drizzle Chocolate Syrup 5. Pour Milk 6. Add Ice 7. Garnish Cocoa powder 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get an iced cafe mocha with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Drizzle Chocolate Syrup 5. Pour Milk 6. Add Ice 7. Garnish Cocoa powder 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Hi, I'd like an iced cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced cafe latte with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Add Ice 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a medium iced cafe mocha, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Drizzle Chocolate Syrup 5. Pour Milk 6. Add Ice 7. Garnish Cocoa powder 8. Serve Beverage 9. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Grande caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a caramel macchiato?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I have an americano with an extra shot of espresso?",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, could I get an americano with an extra shot, please?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Can I get a medium caramel macchiato?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe latte with an extra shot of espresso.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Grande caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "A cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Iced caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Can I get a cafe latte, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Americano with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "A latte with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "I'd like a caramel macchiato.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Americano",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Can I get a caramel macchiato?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Could I get an americano, please?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "\"Could I please get a cafe latte with an extra shot of espresso?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Cafe Mocha with an extra shot please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Hi, I'd like a cafe mocha, please.\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "A cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Iced americano with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Add Ice 4. Pour Espresso 5. Pour Espresso 6. Pour Espresso 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a cafe mocha with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Could I please get a cafe mocha with an extra shot of espresso?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Cafe mocha with an extra shot, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a caramel macchiato, please?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "One iced cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "One grande caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Iced cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get a caramel macchiato, medium, please?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Medium latte, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Serve Beverage 5. Done"
+    },
+    {
+        "prompt": "Can I have an americano?",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "I'll have an americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Caramel macchiato",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Caramel macchiato with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get a cafe mocha with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "One iced caramel macchiato, please.",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Add Ice 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "\"Can I get a caramel macchiato, please?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Hi, can I get a caramel macchiato, please?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe latte with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Add Ice 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Medium cafe mocha for here, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "\"Can I get a caramel macchiato with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Pour Espresso 6. Drizzle Caramel Syrup 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Cafe Latte with an extra shot please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "\"Could I get an americano with an extra shot of espresso, please?\"",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Pour Espresso 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Iced cafe latte",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Milk 4. Add Ice 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "A cafe mocha, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe Mocha with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get a medium iced cafe mocha to go?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Drizzle Chocolate Syrup 4. Pour Milk 5. Add Ice 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Can I get a cafe latte with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Could I get a latte with an extra shot of espresso, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Americano, please.",
+        "response": "1. Place Cup 2. Pour Water 3. Pour Espresso 4. Pour Espresso 5. Serve Beverage 6. Done"
+    },
+    {
+        "prompt": "Cafe mocha.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a grande hot caramel macchiato please?",
+        "response": "1. Place Cup 2. Drizzle Vanilla Syrup 3. Pour Milk 4. Pour Espresso 5. Drizzle Caramel Syrup 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Can I get a cafe mocha, please?",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Chocolate 4. Pour Milk 5. Garnish Cocoa powder 6. Serve Beverage 7. Done"
+    },
+    {
+        "prompt": "Cafe Mocha with an extra shot of espresso, please.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Chocolate 5. Pour Milk 6. Garnish Cocoa powder 7. Serve Beverage 8. Done"
+    },
+    {
+        "prompt": "Cafe Latte with an extra shot of espresso.",
+        "response": "1. Place Cup 2. Pour Espresso 3. Pour Espresso 4. Pour Milk 5. Serve Beverage 6. Done"
+    }
+]
