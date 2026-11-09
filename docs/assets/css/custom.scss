@@ -1,0 +1,12 @@
+---
+---
+
+// Minima 테마: 헤더에 자동으로 출력되는 사이트 타이틀 감추기
+.site-header .site-title {
+  display: none !important;
+}
+
+// (필요하면) 페이지 상단 제목(페이지별 title)도 숨기려면 아래도 추가
+.page-header .page-title {
+  display: none !important;
+}
