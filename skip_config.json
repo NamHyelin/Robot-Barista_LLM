@@ -1,0 +1,16 @@
+{
+  "tau_star": 0.22816901408450707,
+  "tau_safe": 0.0,
+  "Cu": 0.162,
+  "Ce": 0.71,
+  "delta_target": 1e-06,
+  "feature_cols": [
+    "feat_u_1",
+    "feat_u_2",
+    "feat_u_3",
+    "feat_u_4",
+    "feat_u_5",
+    "feat_token_id"
+  ],
+  "history_K": 5
+}
