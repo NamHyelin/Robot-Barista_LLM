@@ -1,5 +1,5 @@
 # Robot-Barista LLM: Uncertainty-Aware Edge–Cloud Language Model for Robotic Coffee Making
-** LLM · Digital Twin · Speculative Decoding **
+**LLM · Digital Twin · Speculative Decoding**
 
 ![LLM](https://img.shields.io/badge/Python-262139?style=for-the-badge&logo=python&logoColor=F472B6)
 ![Digital Twin](https://img.shields.io/badge/Digital_Twin-252341?style=for-the-badge&logoColor=A78BFA)
