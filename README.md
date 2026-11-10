@@ -1,12 +1,20 @@
 # Robot-Barista LLM: Uncertainty-Aware Edge–Cloud Language Model for Robotic Coffee Making
+**LLM · Digital Twin · Speculative Decoding **
+
+![LLM](https://img.shields.io/badge/Python-262139?style=for-the-badge&logo=python&logoColor=F472B6)
+![Digital Twin](https://img.shields.io/badge/Digital_Twin-252341?style=for-the-badge&logoColor=A78BFA)
+![Speculative Decoding](https://img.shields.io/badge/ROS-252341?style=for-the-badge&logo=Speculative_Decoding&logoColor=A78BFA)
+
+This is an independent robotic-barista demonstration that **draws on and adapts concepts from** *Uncertainty-Aware Opportunistic Hybrid Language Model in Wireless Robotic Systems*. It is not presented as the official source code or reproduction package of that paper.
+
+---
+
+## Overview
 
 This repository demonstrates a **communication-assisted, collaborative language-generation framework** for a text-controlled robotic barista. Given a customer's natural-language coffee order, language models generate a task plan for the robot to execute.
 
 The robot-side edge server has limited computing resources and cannot efficiently run a high-capacity language model. To address this limitation, the demonstration distributes generation between a locally deployed **small language model (SLM)** and a remote **large language model (LLM)**. The SLM produces candidate outputs, while uncertainty-aware communication selectively invokes the remote LLM to verify or refine them using a speculative-decoding-inspired procedure. The refined result is returned to the robot-side server for downstream task execution.
 
-> **Research relationship:** This is an independent robotic-barista demonstration that **draws on and adapts concepts from** *Uncertainty-Aware Opportunistic Hybrid Language Model in Wireless Robotic Systems*. It is **not presented as the official source code or reproduction package of that paper**.
-
-## Overview
 
 <h2>System Architecture</h2>
 <p align="center">
